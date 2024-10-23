@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MissRiah
 - 👀 I’m interested in Cozy Games and Animation
-- 🌱 I’m currently learning everything about Game Dev
-- 💞️ I’m looking to collaborate on Cozy and Cute Games
+- 🌱 I’m currently learning everything about Game Dev and Front End Development
+- 💞️ I’m looking to collaborate on Cozy and Cute Games and Apps
 - 📫 How to reach me , missriahgames@gmail.com
 
 <!---
